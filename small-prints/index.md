@@ -3,7 +3,7 @@ title: Small Prints
 ---
 
 
-* 001.JPEG
+* [001.JPEG](001.JPEG)
 * 002.JPEG
 * 003.JPEG
 * 004.JPEG
