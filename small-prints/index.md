@@ -3,43 +3,45 @@ title: Small Prints
 ---
 
 
-* [001.JPEG](001.JPEG)
-* 002.JPEG
-* 003.JPEG
-* 004.JPEG
-* 005.JPEG
-* 006.JPEG
-* 007.JPEG
-* 008.JPEG
-* 009.JPEG
-* 010.JPEG
-* 011.JPEG
-* 012.JPEG
-* 013.JPEG
-* 014.JPEG
-* 015.JPEG
-* 016.JPEG
-* 017.JPEG
-* 018.JPEG
-* 019.JPEG
-* 020.JPEG
-* 021.JPEG
-* 022.JPEG
-* 023.JPEG
-* 024.JPEG
-* 025.JPEG
-* 026.JPEG
-* 027.JPEG
-* 028.JPEG
-* 029.JPEG
-* 030.JPEG
-* 031.JPEG
-* 032.JPEG
-* 033.JPEG
-* 034.JPEG
-* 035.JPEG
-* 036.JPEG
-* 037.JPEG
-* 038.JPEG
-* 039.JPEG
-* 040.JPEG
+[001.png](001.png)
+[002.png](002.png)
+[003.png](003.png)
+[004.png](004.png)
+[005.png](005.png)
+[006.png](006.png)
+[007.png](007.png)
+[008.png](008.png)
+[009.png](009.png)
+[010.png](010.png)
+[011.png](011.png)
+[012.png](012.png)
+[013.png](013.png)
+[014.png](014.png)
+[015.png](015.png)
+[016.png](016.png)
+[017.png](017.png)
+[018.png](018.png)
+[019.png](019.png)
+[020.png](020.png)
+[021.png](021.png)
+[022.png](022.png)
+[023.png](023.png)
+[024.png](024.png)
+[025.png](025.png)
+[026.png](026.png)
+[027.png](027.png)
+[028.png](028.png)
+[029.png](029.png)
+[030.png](030.png)
+[031.png](031.png)
+[032.png](032.png)
+[033.png](033.png)
+[034.png](034.png)
+[035.png](035.png)
+[036.png](036.png)
+[037.png](037.png)
+[038.png](038.png)
+[039.png](039.png)
+[040.png](040.png)
+
+[dknft-001-040.png](dknft-001-040.png)
