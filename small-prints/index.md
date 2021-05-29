@@ -46,4 +46,6 @@ title: Small Prints
 
 [dknft-001-040.png](dknft-001-040.png)
 
-<script src="/scripts/test.js"></script>
+<script language="javascript">
+import "/scripts/test.js";
+</script>
