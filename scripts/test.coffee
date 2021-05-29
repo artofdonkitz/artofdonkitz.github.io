@@ -1,6 +1,6 @@
 ---
 ---
-exports.http =
+export http =
 
   get: (options, callback)->
     options.method = 'get'
