@@ -45,3 +45,5 @@ title: Small Prints
 [![](thumb/040.png)](040.png)
 
 [dknft-001-040.png](dknft-001-040.png)
+
+<script src="/scripts/test.js"></script>
