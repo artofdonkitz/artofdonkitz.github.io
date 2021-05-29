@@ -1,3 +1,5 @@
+---
+---
 exports.http =
 
   get: (options, callback)->
