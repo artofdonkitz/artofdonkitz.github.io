@@ -11,4 +11,4 @@ load_issue_status = ->
                 console.log 'Error'
     req.open 'GET', 'https://api.github.com/repos/artofdonkitz/artofdonkitz.github.io/issues', false
     req.send()
-
+    return req
