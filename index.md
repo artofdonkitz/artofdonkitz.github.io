@@ -9,6 +9,6 @@ In progress:
 Coming soon:
 
 * [Large Prints](/large-prints)
-* [Sketchbooks](sketchbooks)
+* [Sketches](sketches)
 * [Originals](/originals)
 
