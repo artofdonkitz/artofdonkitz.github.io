@@ -48,6 +48,4 @@ title: Small Prints
 
 <script language="javascript" src="{{site.url}}/scripts/test.js" ></script>
 
-{{site.url}}
-{{site.baseurl}}
-{{site.url}}
+
