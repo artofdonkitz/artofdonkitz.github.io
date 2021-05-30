@@ -13,3 +13,7 @@ load_issue_status = ->
     req.open 'GET', 'https://api.github.com/repos/artofdonkitz/artofdonkitz.github.io/issues', false
     req.send()
 
+elem = document.createElement("p")
+elem.innerText = "---"
+document.appendChild(elem)
+elem.onclick = load_issue_status
