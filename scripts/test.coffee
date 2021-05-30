@@ -2,6 +2,7 @@
 issues_url: https://api.github.com/repos/artofdonkitz/artofdonkitz.github.io/issues
 ---
 
+console.log '{{ issues_url }}'
 # issues_display = (v) ->
 #     console.log v
 #     gallery.innerText = v[0].title
