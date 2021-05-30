@@ -7,8 +7,7 @@ load_issue_status = ->
     req.addEventListener 'readystatechange', ->
         if req.readyState is 4
             if req.status in successResultCodes
-                console.log JSON.parse(req.responseText)
-                
+                return req
             else
                 console.log 'Error'
     req.open 'GET', 'https://api.github.com/repos/artofdonkitz/artofdonkitz.github.io/issues', true
