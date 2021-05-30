@@ -1,4 +1,5 @@
 ---
+issues_url: https://api.github.com/repos/artofdonkitz/artofdonkitz.github.io/issues
 ---
 
 successResultCodes  = [200,304]
@@ -12,7 +13,7 @@ load_issue_status = ->
                 gallery.innerText = txv[0].title
             else
                 console.log 'Error'
-    req.open 'GET', 'https://api.github.com/repos/artofdonkitz/artofdonkitz.github.io/issues', true
+    req.open 'GET', '{{ issues_url }}', true
     req.send()
 
 elem = document.createElement("p")
