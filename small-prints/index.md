@@ -3,7 +3,7 @@ title: Small Prints
 ---
 
 
-[![](thumb/001.png)](001.png){ .sp #sp001 }
+[![](thumb/001.png)](001.png){: .sp #sp001 }
 [![](thumb/002.png)](002.png)
 [![](thumb/003.png)](003.png)
 [![](thumb/004.png)](004.png)
