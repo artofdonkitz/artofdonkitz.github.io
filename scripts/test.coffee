@@ -9,6 +9,7 @@ load_issue_status = ->
             if req.status in successResultCodes
                 txv = JSON.parse(req.responseText)
                 console.log txv[0]
+                gallery.innerText = txv[0].title
             else
                 console.log 'Error'
     req.open 'GET', 'https://api.github.com/repos/artofdonkitz/artofdonkitz.github.io/issues', true
