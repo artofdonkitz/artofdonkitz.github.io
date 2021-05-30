@@ -6,6 +6,10 @@ console.log '{{ page.issues_url }}'
 issues_display = (v) ->
     for xi in v
         console.log xi.title
+        m = document.getElementById("sp"+xi.title)
+        if m
+            console.log m
+
 
 successResultCodes  = [200,304]
 load_issue_status = ->
