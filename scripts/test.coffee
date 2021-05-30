@@ -1,3 +1,5 @@
+---
+---
 
 successResultCodes  = [200,304]
 load_issue_status = ->
