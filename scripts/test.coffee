@@ -7,7 +7,7 @@ load_issue_status = ->
     req.addEventListener 'readystatechange', ->
         if req.readyState is 4
             if req.status in successResultCodes
-                return JSON.parse(req.responseText)
+                console.log JSON.parse(req.responseText)
                 
             else
                 console.log 'Error'
