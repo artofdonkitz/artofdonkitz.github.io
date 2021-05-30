@@ -11,7 +11,7 @@ load_issue_status = ->
     req.addEventListener 'readystatechange', ->
         if req.readyState is 4
             if req.status in successResultCodes
-                issues_display JSON.parse(req.responseText)
+                issues_display( JSON.parse(req.responseText))
             else
                 console.log 'Error'
     req.open 'GET', '{{ issues_url }}', true
