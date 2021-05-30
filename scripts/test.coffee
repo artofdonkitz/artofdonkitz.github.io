@@ -4,7 +4,7 @@
 successResultCodes  = [200,304]
 load_issue_status = ->
     req = new XMLHttpRequest()
-    req.onload =>
+    req.onload ->
         console.log this.response
     req.open 'GET', 'https://api.github.com/repos/artofdonkitz/artofdonkitz.github.io/issues', true
     req.send()
