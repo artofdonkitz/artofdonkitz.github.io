@@ -4,12 +4,8 @@
 successResultCodes  = [200,304]
 load_issue_status = ->
     req = new XMLHttpRequest()
-    req.addEventListener 'readystatechange', ->
-        if req.readyState is 4
-            if req.status in successResultCodes
-                return req
-            else
-                console.log 'Error'
+    req.onload =>
+        console.log this.response
     req.open 'GET', 'https://api.github.com/repos/artofdonkitz/artofdonkitz.github.io/issues', true
     req.send()
 
