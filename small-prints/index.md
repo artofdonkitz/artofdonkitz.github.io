@@ -44,6 +44,8 @@ title: Small Prints
 [![](thumb/039.png)](039.png)
 [![](thumb/040.png)](040.png)
 
+<div id="gallery"></div>
+
 [dknft-001-040.png](dknft-001-040.png)
 
 <script language="javascript" src="{{site.url}}/scripts/test.js" ></script>
