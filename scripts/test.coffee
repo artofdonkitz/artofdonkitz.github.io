@@ -9,6 +9,9 @@ issues_display = (v) ->
         m = document.getElementById("sp"+xi.title)
         if m
             console.log m
+            n = document.createElement("p")
+            n.innerText = "..."
+            m.appendChild(n)
 
 
 successResultCodes  = [200,304]
