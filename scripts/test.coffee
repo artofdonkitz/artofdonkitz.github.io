@@ -10,10 +10,11 @@ load_issue_status = ->
                 console.log req.responseText
             else
                 console.log 'Error'
-    req.open 'GET', 'https://api.github.com/repos/artofdonkitz/artofdonkitz.github.io/issues', false
+    req.open 'GET', 'https://api.github.com/repos/artofdonkitz/artofdonkitz.github.io/issues', true
     req.send()
 
 elem = document.createElement("p")
-elem.innerText = "---"
+elem.innerText = "foo"
 document.body.appendChild(elem)
 elem.onclick = load_issue_status
+
