@@ -15,5 +15,5 @@ load_issue_status = ->
 
 elem = document.createElement("p")
 elem.innerText = "---"
-document.appendChild(elem)
+document.body.appendChild(elem)
 elem.onclick = load_issue_status
