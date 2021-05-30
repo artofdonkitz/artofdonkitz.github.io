@@ -14,7 +14,8 @@ load_issue_status = ->
     req.send()
 
 elem = document.createElement("p")
-elem.innerText = "foo"
+elem.id = "bar"
+elem.innerText = "==="
 document.body.appendChild(elem)
 elem.onclick = load_issue_status
 
